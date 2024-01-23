@@ -10,7 +10,6 @@ import java.util.Arrays;
 import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
-import java.util.stream.Collectors;
 
 public class UI {
     // https://stackoverflow.com/questions/5762491/how-to-print-color-in-console-using-system-out-println
